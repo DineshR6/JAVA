@@ -1,0 +1,45 @@
+
+o	java:S107 "BConstructor has 20 parameters, which is greater than 7 authorized.(‚¢â©ıÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106<"9Replace this use of System.out or System.err by a logger.(ö¡¹êRMAJORZ
+CODE_SMELL
+a	java:S106="9Replace this use of System.out or System.err by a logger.(õ¿îRMAJORZ
+CODE_SMELL
+f	java:S106>"9Replace this use of System.out or System.err by a logger.(˜„ëùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106?"9Replace this use of System.out or System.err by a logger.(ğİ¶»ıÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106@"9Replace this use of System.out or System.err by a logger.(Õ¹Ë…RMAJORZ
+CODE_SMELL
+a	java:S106A"9Replace this use of System.out or System.err by a logger.(áÛRMAJORZ
+CODE_SMELL
+a	java:S106B"9Replace this use of System.out or System.err by a logger.(î—¢îRMAJORZ
+CODE_SMELL
+f	java:S106C"9Replace this use of System.out or System.err by a logger.(ÈÌÃïÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106D"9Replace this use of System.out or System.err by a logger.(¡¯Ö¼RMAJORZ
+CODE_SMELL
+f	java:S106E"9Replace this use of System.out or System.err by a logger.(¡—£ıÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106F"9Replace this use of System.out or System.err by a logger.(­«ŸŠûÿÿÿÿRMAJORZ
+CODE_SMELL
+`	java:S106G"9Replace this use of System.out or System.err by a logger.(ë£¡
+RMAJORZ
+CODE_SMELL
+f	java:S106H"9Replace this use of System.out or System.err by a logger.(î¬ÄşÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106I"9Replace this use of System.out or System.err by a logger.(ÎÎáèRMAJORZ
+CODE_SMELL
+`	java:S106J"9Replace this use of System.out or System.err by a logger.(‚ùº0RMAJORZ
+CODE_SMELL
+f	java:S106K"9Replace this use of System.out or System.err by a logger.(¾¶ÕäıÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106L"9Replace this use of System.out or System.err by a logger.(ä‡–€øÿÿÿÿRMAJORZ
+CODE_SMELL
+`	java:S106M"9Replace this use of System.out or System.err by a logger.(’§¸
+RMAJORZ
+CODE_SMELL
+f	java:S106N"9Replace this use of System.out or System.err by a logger.(ß§‰ıÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106O"9Replace this use of System.out or System.err by a logger.(ñêîÔRMAJORZ
+CODE_SMELL

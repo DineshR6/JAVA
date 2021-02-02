@@ -1,0 +1,35 @@
+
+w
+java:S1192-"KDefine a constant instead of duplicating this literal " not found" 4 times.(šÖÉîRCRITICALZ
+CODE_SMELL
+t
+java:S1192 "HDefine a constant instead of duplicating this literal "SUCESSS" 3 times.(ÅçıRCRITICALZ
+CODE_SMELL
+y
+java:S1192-"MDefine a constant instead of duplicating this literal "Employee id " 4 times.(šÖÉîRCRITICALZ
+CODE_SMELL
+ˆ
+java:S41448"_Update this method so that its implementation is not identical to "getEmpByIdParam" on line 39.(´¯ÖŒRMAJORZ
+CODE_SMELL
+v
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ŸÄ¡´øÿÿÿÿRMINORZ
+CODE_SMELL
+q
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(â½¯¹RMINORZ
+CODE_SMELL
+v
+java:S44887"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(µÂ¾àşÿÿÿÿRMINORZ
+CODE_SMELL
+|
+java:S4488E"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(óã…ØşÿÿÿÿRMINORZ
+CODE_SMELL
+o
+java:S4684Y"@Replace this persistent entity with a simple POJO or DTO object.(†ÒôRCRITICALZVULNERABILITY
+x
+java:S4488X"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ƒ‰„úÿÿÿÿRMINORZ
+CODE_SMELL
+t
+java:S4684k"@Replace this persistent entity with a simple POJO or DTO object.(Í¶Ô…ÿÿÿÿÿRCRITICALZVULNERABILITY
+v
+java:S4488j"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ÓğŞ±ùÿÿÿÿRMINORZ
+CODE_SMELL

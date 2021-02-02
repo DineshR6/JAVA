@@ -1,0 +1,24 @@
+
+i
+java:S2259"BA "NullPointerException" could be thrown; "name" is nullable here.(οϋκμώÿÿÿÿRMAJORZBUG
+`
+java:S1197"8Move the array designator from the variable to the type.(Γ§”RMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(µΞσΝϊÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(µΟ…θωÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(οϋκμώÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¥ΠΟΟÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106 "9Replace this use of System.out or System.err by a logger.(‚ε’“RMAJORZ
+CODE_SMELL
+f	java:S106""9Replace this use of System.out or System.err by a logger.(ΈδΈϊÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106$"9Replace this use of System.out or System.err by a logger.(ο®·°ώÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106&"9Replace this use of System.out or System.err by a logger.(ªς‡ωÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106)"9Replace this use of System.out or System.err by a logger.(ιαιωRMAJORZ
+CODE_SMELL

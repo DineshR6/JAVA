@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Dec/2020:17:06:57 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:07:01 +0530] "GET /SpringMvcWithHibernate/ HTTP/1.1" 200 434
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:07:05 +0530] "GET /SpringMvcWithHibernate/login HTTP/1.1" 200 664
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:07:18 +0530] "POST /SpringMvcWithHibernate/login HTTP/1.1" 200 2016
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:07:21 +0530] "GET /SpringMvcWithHibernate/updateProfile HTTP/1.1" 200 2014
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:07:42 +0530] "POST /SpringMvcWithHibernate/updateProfile HTTP/1.1" 500 5321
+127.0.0.1 - - [09/Dec/2020:17:57:37 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:57:38 +0530] "GET /SpringMvcWithHibernate/ HTTP/1.1" 200 434
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:57:41 +0530] "GET /SpringMvcWithHibernate/login HTTP/1.1" 200 664
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:57:54 +0530] "POST /SpringMvcWithHibernate/login HTTP/1.1" 200 2016
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:57:57 +0530] "GET /SpringMvcWithHibernate/updateProfile HTTP/1.1" 200 2014
+0:0:0:0:0:0:0:1 - - [09/Dec/2020:17:58:38 +0530] "POST /SpringMvcWithHibernate/updateProfile HTTP/1.1" 500 4804

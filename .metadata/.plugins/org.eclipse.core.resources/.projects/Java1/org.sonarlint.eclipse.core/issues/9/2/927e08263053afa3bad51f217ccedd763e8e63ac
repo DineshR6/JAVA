@@ -1,0 +1,21 @@
+
+n	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Òί‹ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106""9Replace this use of System.out or System.err by a logger.(φ΅ΉκRMAJORZ
+CODE_SMELL
+a	java:S106#"9Replace this use of System.out or System.err by a logger.(υΏξRMAJORZ
+CODE_SMELL
+f	java:S106$"9Replace this use of System.out or System.err by a logger.(„λωÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106%"9Replace this use of System.out or System.err by a logger.(Μ·™ΞRMAJORZ
+CODE_SMELL
+f	java:S106&"9Replace this use of System.out or System.err by a logger.(Υ—ωÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106'"9Replace this use of System.out or System.err by a logger.(βλªRMAJORZ
+CODE_SMELL
+a	java:S106("9Replace this use of System.out or System.err by a logger.(Ίώ£ήRMAJORZ
+CODE_SMELL
+f	java:S106)"9Replace this use of System.out or System.err by a logger.(ΑΊ„™ϊÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106*"9Replace this use of System.out or System.err by a logger.(ΰΟ‹RMAJORZ
+CODE_SMELL

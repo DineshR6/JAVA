@@ -1,0 +1,8 @@
+
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ŒŽ§­RMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(‚¾ÝÁRMAJORZ
+CODE_SMELL
+S
+java:S1144"*Remove this unused private "print" method.(ÎË„¿RMAJORZ
+CODE_SMELL

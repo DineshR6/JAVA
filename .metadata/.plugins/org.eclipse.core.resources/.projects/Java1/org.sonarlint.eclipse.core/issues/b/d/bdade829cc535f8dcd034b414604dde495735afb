@@ -1,0 +1,15 @@
+
+i	java:S125"<This block of commented-out lines of code should be removed.(Ú©ÀÊşÿÿÿÿRMAJORZ
+CODE_SMELL
+g
+java:S1854"9Remove this useless assignment to local variable "isDir".(§¨–æşÿÿÿÿRMAJORZ
+CODE_SMELL
+o
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ü¦ãçüÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S899"@Do something with the "boolean" value returned by "isDirectory".(§¨–æşÿÿÿÿRMINORZBUG
+f	java:S106"9Replace this use of System.out or System.err by a logger.(áí¨ûÿÿÿÿRMAJORZ
+CODE_SMELL
+X
+java:S1481"*Remove this unused "isDir" local variable.(§¨–æşÿÿÿÿRMINORZ
+CODE_SMELL

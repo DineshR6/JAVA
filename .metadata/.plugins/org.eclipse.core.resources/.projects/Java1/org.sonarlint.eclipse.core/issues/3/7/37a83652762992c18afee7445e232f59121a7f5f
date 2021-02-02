@@ -1,0 +1,11 @@
+
+M
+java:S3010" Remove this assignment of "age".(ÅªÖ¬HŒRMAJORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï¨„æùÿÿÿÿH‹RMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(…®ÁÏùÿÿÿÿHRMAJORZ
+CODE_SMELL
+f
+java:S2696#"6Make the enclosing method "static" or remove this set.(Ä¡ ­HRCRITICALZ
+CODE_SMELL

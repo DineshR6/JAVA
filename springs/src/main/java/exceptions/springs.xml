@@ -1,0 +1,25 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+
+<bean id="input"  class="exceptions.Input">
+	<property name="process" ref="pro" />  
+</bean>
+
+
+<bean id="process"  class="exceptions.Process">
+	<property name="validate" ref="val" />  
+</bean>
+
+
+<bean id="validate"  class="exceptions.Validate">
+	<property name="save" ref="sv" />  
+</bean>
+
+
+<bean id="save"  class="exceptions.Save">
+</bean>
+
+
+</beans>

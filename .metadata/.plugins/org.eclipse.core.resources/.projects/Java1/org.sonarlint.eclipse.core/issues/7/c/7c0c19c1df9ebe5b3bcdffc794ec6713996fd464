@@ -1,0 +1,12 @@
+
+o
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(²õ¶ùÿÿÿÿRMINORZ
+CODE_SMELL
+|
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿRMINORZBUG
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ĞèRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(é¦ÀÃRMAJORZ
+CODE_SMELL

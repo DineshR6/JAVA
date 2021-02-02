@@ -1,0 +1,20 @@
+
+X
+java:S3740"/Provide the parametrized type for this generic.(·¬„¾RMAJORZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(·¬„¾RMAJORZ
+CODE_SMELL
+§
+java:S1130"yRemove the declaration of thrown exception 'java.lang.InstantiationException', as it cannot be thrown from method's body.(¶¼ÕúÿÿÿÿRMINORZ
+CODE_SMELL
+§
+java:S1130"yRemove the declaration of thrown exception 'java.lang.IllegalAccessException', as it cannot be thrown from method's body.(¶¼ÕúÿÿÿÿRMINORZ
+CODE_SMELL
+a	java:S106""9Replace this use of System.out or System.err by a logger.(Ýø²ºRMAJORZ
+CODE_SMELL
+a	java:S106%"9Replace this use of System.out or System.err by a logger.(÷ƒëâRMAJORZ
+CODE_SMELL
+f	java:S106("9Replace this use of System.out or System.err by a logger.(ä×¥üÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106,"9Replace this use of System.out or System.err by a logger.(›êÃ˜øÿÿÿÿRMAJORZ
+CODE_SMELL

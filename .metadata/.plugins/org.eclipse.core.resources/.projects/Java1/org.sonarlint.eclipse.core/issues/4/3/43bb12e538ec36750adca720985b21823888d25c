@@ -1,0 +1,13 @@
+
+e	java:S106"9Replace this use of System.out or System.err by a logger.( ÀÔÚH êRMAJORZ
+CODE_SMELL
+l
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄHÀêRMAJORZBUG
+e	java:S106*"9Replace this use of System.out or System.err by a logger.(ø≈ŸïHÃêRMAJORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(¢ªÄ¿˙ˇˇˇˇHÕêRMAJORZ
+CODE_SMELL
+e	java:S106"9Replace this use of System.out or System.err by a logger.(¡£™ßHŒêRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ò«ô¨ˇˇˇˇˇHœêRMAJORZ
+CODE_SMELL

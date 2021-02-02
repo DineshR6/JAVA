@@ -1,0 +1,15 @@
+package controller;
+
+import org.springframework.stereotype.*;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class WebController {
+
+@GetMapping("/hello1")
+public String t1() {
+return "index";
+}
+}

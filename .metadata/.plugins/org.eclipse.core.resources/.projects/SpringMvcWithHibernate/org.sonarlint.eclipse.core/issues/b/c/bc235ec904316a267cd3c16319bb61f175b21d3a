@@ -1,0 +1,18 @@
+
+Q	java:S108")Either remove or fill this block of code.(ï­£ÄRMAJORZ
+CODE_SMELL
+Q
+java:S11257"(Remove the literal "true" boolean value.(³¼È¸RMINORZ
+CODE_SMELL
+U
+java:S1905Q"'Remove this unnecessary cast to "List".(ÉäÉšùÿÿÿÿRMINORZ
+CODE_SMELL
+U
+java:S1905Z"'Remove this unnecessary cast to "List".(±û´ ùÿÿÿÿRMINORZ
+CODE_SMELL
+V
+java:S1905£"'Remove this unnecessary cast to "List".(±û´ ùÿÿÿÿRMINORZ
+CODE_SMELL
+O
+java:S1905¾"&Remove this unnecessary cast to "int".(¹ÑŽHRMINORZ
+CODE_SMELL

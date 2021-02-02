@@ -1,0 +1,20 @@
+
+v
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‰¸„ÇıÿÿÿÿRBLOCKERZBUG
+i
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ˆŸôRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(±‘ú¶øÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Íî¹ÖúÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¹£Ç˜ûÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106 "9Replace this use of System.out or System.err by a logger.(µŒÒ˜úÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106""9Replace this use of System.out or System.err by a logger.(ç«â¡RMAJORZ
+CODE_SMELL
+f	java:S106$"9Replace this use of System.out or System.err by a logger.(îüÊüÿÿÿÿRMAJORZ
+CODE_SMELL
+`	java:S106&"9Replace this use of System.out or System.err by a logger.(ğ÷†TRMAJORZ
+CODE_SMELL

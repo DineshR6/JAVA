@@ -1,0 +1,26 @@
+
+‚
+java:S1488F"YImmediately throw this expression instead of assigning it to the temporary variable "ex".(É±üŠRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(±Ù­ÕüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106!"9Replace this use of System.out or System.err by a logger.(óœÅÆRMAJORZ
+CODE_SMELL
+`	java:S106("9Replace this use of System.out or System.err by a logger.(±¨RMAJORZ
+CODE_SMELL
+f	java:S106)"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106+"9Replace this use of System.out or System.err by a logger.(ùÿàƒüÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S1060"9Replace this use of System.out or System.err by a logger.(ôæó·üÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S1064"9Replace this use of System.out or System.err by a logger.(¹¨é×üÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106:"9Replace this use of System.out or System.err by a logger.(ò¸˜öùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106>"9Replace this use of System.out or System.err by a logger.(Ö„ŒýüÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106D"9Replace this use of System.out or System.err by a logger.(À”Ú¼úÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106I"9Replace this use of System.out or System.err by a logger.(ñ‘ ÈRMAJORZ
+CODE_SMELL

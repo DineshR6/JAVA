@@ -1,0 +1,18 @@
+
+\
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106	"9Replace this use of System.out or System.err by a logger.(þÊ›×ýÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106
+"9Replace this use of System.out or System.err by a logger.(½à“¿RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ë¬éÌüÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ËÕºàýÿÿÿÿRMAJORZ
+CODE_SMELL
+g
+java:S3400"9Remove this method and declare a constant for this value.(ÑÊ—ÉÿÿÿÿÿRMINORZ
+CODE_SMELL
+a	java:S106X"9Replace this use of System.out or System.err by a logger.(á®…ÒRMAJORZ
+CODE_SMELL

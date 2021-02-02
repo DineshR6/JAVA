@@ -1,0 +1,8 @@
+
+j
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(âòêRMINORZ
+CODE_SMELL
+|
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(×ªÕ•øÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S899";Do something with the "boolean" value returned by "delete".(×ªÕ•øÿÿÿÿRMINORZBUG

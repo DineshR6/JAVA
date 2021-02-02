@@ -1,0 +1,14 @@
+
+f	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿRMAJORZBUG
+YWeb:TableWithoutCaptionCheck" Add a description to this table.(â®æëıÿÿÿÿRMINORZBUG
+V	Web:S1827")Remove this deprecated "width" attribute.(â®æëıÿÿÿÿRMAJORZ
+CODE_SMELL
+\	Web:S1827"/Remove this deprecated "cellpadding" attribute.(â®æëıÿÿÿÿRMAJORZ
+CODE_SMELL
+r Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(…ÖÚURMAJORZBUG
+x Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ûéú»ÿÿÿÿÿRMAJORZBUG
+s Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(à¥Õ¯RMAJORZBUG
+s Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÿúáğRMAJORZBUG
+x Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ú¡òûÿÿÿÿRMAJORZBUG
+r Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(æó‡iRMAJORZBUG
+s Web:TableHeaderHasIdOrScopeCheck ";Add either an 'id' or a 'scope' attribute to this <th> tag.(æËİâRMAJORZBUG

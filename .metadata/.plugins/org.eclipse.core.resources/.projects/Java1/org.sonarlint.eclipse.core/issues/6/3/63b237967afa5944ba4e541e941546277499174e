@@ -1,0 +1,13 @@
+
+]
+java:S3740
+"/Provide the parametrized type for this generic.(ç¥ËÕùÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÇRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(³ë…¨RMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(²¨Ú’RMAJORZ
+CODE_SMELL
+i	java:S125 "<This block of commented-out lines of code should be removed.(éÓü…ùÿÿÿÿRMAJORZ
+CODE_SMELL

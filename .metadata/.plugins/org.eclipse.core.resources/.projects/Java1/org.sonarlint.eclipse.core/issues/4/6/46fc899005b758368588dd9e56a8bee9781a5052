@@ -1,0 +1,19 @@
+
+]
+java:S3740"/Provide the parametrized type for this generic.(±¨Á¨þÿÿÿÿRMAJORZ
+CODE_SMELL
+‚
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(×ªŒ­üÿÿÿÿRMINORZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(·¬„¾RMAJORZ
+CODE_SMELL
+a	java:S106 "9Replace this use of System.out or System.err by a logger.(¦­ÖâRMAJORZ
+CODE_SMELL
+a	java:S106!"9Replace this use of System.out or System.err by a logger.(Åý¼àRMAJORZ
+CODE_SMELL
+f	java:S106""9Replace this use of System.out or System.err by a logger.(ìùö›ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106$"9Replace this use of System.out or System.err by a logger.(Ê×´ÛRMAJORZ
+CODE_SMELL
+i	java:S125#"<This block of commented-out lines of code should be removed.(—ÛóäûÿÿÿÿRMAJORZ
+CODE_SMELL

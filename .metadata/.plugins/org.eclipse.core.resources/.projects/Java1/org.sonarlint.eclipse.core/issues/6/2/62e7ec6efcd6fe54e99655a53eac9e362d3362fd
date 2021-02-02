@@ -1,0 +1,12 @@
+
+j
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿHĞRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+l
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€HÒRMAJORZBUG
+k
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(úËşÊşÿÿÿÿHÓRMAJORZBUG
+e	java:S106"9Replace this use of System.out or System.err by a logger.(í§¾óHÔRMAJORZ
+CODE_SMELL

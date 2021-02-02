@@ -1,0 +1,31 @@
+
+ƒ
+java:S1192"NDefine a constant instead of duplicating this literal "Authorization" 6 times.(áéûÿÿÿÿH–RCRITICALZ
+CODE_SMELL
+
+java:S1192"[Define a constant instead of duplicating this literal "Basic YWRtaW46YWRtaW4xMjM=" 6 times.(áéûÿÿÿÿHRCRITICALZ
+CODE_SMELL
+p
+java:S1854>">Remove this useless assignment to local variable "statusCode".(¶ğàËşÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+p
+java:S1854M">Remove this useless assignment to local variable "statusCode".(¶ğàËşÿÿÿÿH¥RMAJORZ
+CODE_SMELL
+†
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿ğßH¦RMINORZ
+CODE_SMELL
+p
+java:S1854f">Remove this useless assignment to local variable "statusCode".(¶ğàËşÿÿÿÿH§RMAJORZ
+CODE_SMELL
+‹
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(“¶•ùøÿÿÿÿH¨RMINORZ
+CODE_SMELL
+a
+java:S1481>"/Remove this unused "statusCode" local variable.(¶ğàËşÿÿÿÿH©RMINORZ
+CODE_SMELL
+a
+java:S1481M"/Remove this unused "statusCode" local variable.(¶ğàËşÿÿÿÿHªRMINORZ
+CODE_SMELL
+a
+java:S1481f"/Remove this unused "statusCode" local variable.(¶ğàËşÿÿÿÿH«RMINORZ
+CODE_SMELL

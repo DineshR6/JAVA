@@ -1,0 +1,44 @@
+
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÏ¦çùÿÿÿÿRMINORZ
+CODE_SMELL
+c	java:S125
+"<This block of commented-out lines of code should be removed.(‡ÁŒQRMAJORZ
+CODE_SMELL
+‡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­î‹’ıÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106""9Replace this use of System.out or System.err by a logger.(ô¿ÑëûÿÿÿÿRMAJORZ
+CODE_SMELL
+Z
+java:S1612#",Replace this lambda with a method reference.(‚•°ÂûÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106#"9Replace this use of System.out or System.err by a logger.(‚•°ÂûÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106%"9Replace this use of System.out or System.err by a logger.(¥´¢—RMAJORZ
+CODE_SMELL
+T
+java:S1612-",Replace this lambda with a method reference.(¤âRMINORZ
+CODE_SMELL
+`	java:S106-"9Replace this use of System.out or System.err by a logger.(¤âRMAJORZ
+CODE_SMELL
+f	java:S1061"9Replace this use of System.out or System.err by a logger.(´ÈîùÿÿÿÿRMAJORZ
+CODE_SMELL
+T
+java:S16129",Replace this lambda with a method reference.(¤âRMINORZ
+CODE_SMELL
+`	java:S1069"9Replace this use of System.out or System.err by a logger.(¤âRMAJORZ
+CODE_SMELL
+a	java:S106<"9Replace this use of System.out or System.err by a logger.(ş€RMAJORZ
+CODE_SMELL
+T
+java:S1612D",Replace this lambda with a method reference.(¤âRMINORZ
+CODE_SMELL
+`	java:S106D"9Replace this use of System.out or System.err by a logger.(¤âRMAJORZ
+CODE_SMELL
+a	java:S106G"9Replace this use of System.out or System.err by a logger.(„Ê­àRMAJORZ
+CODE_SMELL
+T
+java:S1612O",Replace this lambda with a method reference.(¤âRMINORZ
+CODE_SMELL
+`	java:S106O"9Replace this use of System.out or System.err by a logger.(¤âRMAJORZ
+CODE_SMELL

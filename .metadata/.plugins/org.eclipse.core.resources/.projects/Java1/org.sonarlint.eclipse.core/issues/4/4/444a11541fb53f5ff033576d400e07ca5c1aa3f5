@@ -1,0 +1,17 @@
+
+w
+java:S1192"FDefine a constant instead of duplicating this literal " and " 5 times.(‹ãñ†ÿÿÿÿÿRCRITICALZ
+CODE_SMELL
+_
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(‹ãñ†ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Ù×ÜıÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Ø÷¢ÔRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(Œ‡íFRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(‡¼TRMAJORZ
+CODE_SMELL

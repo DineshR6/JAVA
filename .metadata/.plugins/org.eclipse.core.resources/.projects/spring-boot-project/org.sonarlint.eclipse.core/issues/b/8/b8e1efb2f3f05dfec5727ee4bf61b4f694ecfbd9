@@ -1,0 +1,67 @@
+
+|
+java:S4488I"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‡¥»ÎûÿÿÿÿH‹‘RMINORZ
+CODE_SMELL
+ƒ
+java:S4144)"WUpdate this method so that its implementation is not identical to "getJson" on line 29.(…¤‡}H‘RMAJORZ
+CODE_SMELL
+a
+java:S3740%"/Provide the parametrized type for this generic.(ò°ÁûÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+€
+java:S4488S"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(Îõ¡ÙúÿÿÿÿH‘RMINORZ
+CODE_SMELL
+a
+java:S37409"/Provide the parametrized type for this generic.(ß£³úùÿÿÿÿH’‘RMAJORZ
+CODE_SMELL
+t
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(®¶ËH“‘RMINORZ
+CODE_SMELL
+}
+java:S1192"HDefine a constant instead of duplicating this literal "success" 3 times.(ï‘ı¤úÿÿÿÿH•‘RCRITICALZ
+CODE_SMELL
+t
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ƒƒàWH™‘RMINORZ
+CODE_SMELL
+a
+java:S3740O"/Provide the parametrized type for this generic.(ÿ°•ÚûÿÿÿÿH›‘RMAJORZ
+CODE_SMELL
+a
+java:S3740+"/Provide the parametrized type for this generic.(ò°ÁûÿÿÿÿHœ‘RMAJORZ
+CODE_SMELL
+\
+java:S3740?"/Provide the parametrized type for this generic.(ş¢ª‰H‘RMAJORZ
+CODE_SMELL
+[
+java:S3740J"/Provide the parametrized type for this generic.(íäĞBH‘RMAJORZ
+CODE_SMELL
+[
+java:S3740)"/Provide the parametrized type for this generic.(…¤‡}HŸ‘RMAJORZ
+CODE_SMELL
+a
+java:S3740"/Provide the parametrized type for this generic.(ò°ÁûÿÿÿÿH ‘RMAJORZ
+CODE_SMELL
+a
+java:S3740B"/Provide the parametrized type for this generic.(²…ÍßûÿÿÿÿH¡‘RMAJORZ
+CODE_SMELL
+a
+java:S3740"/Provide the parametrized type for this generic.(™ùÅ¥úÿÿÿÿH¢‘RMAJORZ
+CODE_SMELL
+u
+java:S4488N"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(‹íñH£‘RMINORZ
+CODE_SMELL
+a
+java:S3740#"/Provide the parametrized type for this generic.(·ŠÀœúÿÿÿÿH¥‘RMAJORZ
+CODE_SMELL
+z
+java:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Â¾ø»ıÿÿÿÿH¦‘RMINORZ
+CODE_SMELL
+‰
+java:S4144#"WUpdate this method so that its implementation is not identical to "getJson" on line 29.(·ŠÀœúÿÿÿÿH¨‘RMAJORZ
+CODE_SMELL
+\
+java:S3740E"/Provide the parametrized type for this generic.(¢ï²®Hª‘RMAJORZ
+CODE_SMELL
+a
+java:S3740T"/Provide the parametrized type for this generic.(Ÿ‹÷İøÿÿÿÿH«‘RMAJORZ
+CODE_SMELL

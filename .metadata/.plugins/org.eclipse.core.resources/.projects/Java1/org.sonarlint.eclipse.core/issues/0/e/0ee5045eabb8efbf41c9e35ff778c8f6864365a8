@@ -1,0 +1,8 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èóı$RMINORZ
+CODE_SMELL
+d
+java:S1610"6Convert the abstract class "MyBank" into an interface.(¼³’ıÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(€Èñ´şÿÿÿÿRMAJORZ
+CODE_SMELL

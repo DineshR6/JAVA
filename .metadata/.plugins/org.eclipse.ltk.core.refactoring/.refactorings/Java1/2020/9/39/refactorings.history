@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;hasarelation.TestAddress&apos; to &apos;TestStudent&apos;&#x0D;&#x0A;- Original project: &apos;Java1&apos;&#x0D;&#x0A;- Original element: &apos;hasarelation.TestAddress&apos;&#x0D;&#x0A;- Renamed element: &apos;hasarelation.TestStudent&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TestAddress&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;hasarelation{TestAddress.java[TestAddress" matchStrategy="1" name="TestStudent" qualified="false" references="true" similarDeclarations="false" stamp="1600779881155" textual="false" version="1.0"/>
+</session>

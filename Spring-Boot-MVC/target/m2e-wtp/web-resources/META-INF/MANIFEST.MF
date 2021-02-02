@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring-Boot-MVC Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ADMIN
+Implementation-Vendor-Id: Regnant
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+

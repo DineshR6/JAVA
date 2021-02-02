@@ -1,0 +1,12 @@
+
+i
+java:S2259"BA "NullPointerException" could be thrown; "name" is nullable here.(ןûךל‏ÿÿÿÿRMAJORZBUG
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ןûךל‏ÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(‰םַRMAJORZ
+CODE_SMELL
+d	java:S125
+"<This block of commented-out lines of code should be removed.(ל‘עRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(יבישRMAJORZ
+CODE_SMELL

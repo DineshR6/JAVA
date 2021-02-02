@@ -1,0 +1,7 @@
+
+{
+java:S1128"IRemove this unused import 'org.springframework.context.annotation.Scope'.(þè®€ÿÿÿÿÿH’”RMINORZ
+CODE_SMELL
+j	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ñ—úÐúÿÿÿÿH“”RMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+m	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ç©…NRMAJORZ
+CODE_SMELL
+b
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠÞùÿÿÿÿRMINORZ
+CODE_SMELL
+X
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½ÒþÿÿÿÿRMINORZ
+CODE_SMELL
+^
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±þê¾úÿÿÿÿRMINORZ
+CODE_SMELL
+h
+java:S1118":Add a private constructor to hide the implicit public one.(Øã²»þÿÿÿÿRMAJORZ
+CODE_SMELL

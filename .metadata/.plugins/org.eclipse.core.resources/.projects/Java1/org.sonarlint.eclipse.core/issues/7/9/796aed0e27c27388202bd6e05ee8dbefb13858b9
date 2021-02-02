@@ -1,0 +1,26 @@
+
+r
+java:S1192"FDefine a constant instead of duplicating this literal "user1" 6 times.(ÚÛÿƒRCRITICALZ
+CODE_SMELL
+‚	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×“îêRMINORZ
+CODE_SMELL
+a	java:S106&"9Replace this use of System.out or System.err by a logger.(ø¡ĞRMAJORZ
+CODE_SMELL
+a	java:S106)"9Replace this use of System.out or System.err by a logger.(¢Î€RMAJORZ
+CODE_SMELL
+f	java:S106*"9Replace this use of System.out or System.err by a logger.(öß×¬ùÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106+"9Replace this use of System.out or System.err by a logger.(šÉ¸ˆRMAJORZ
+CODE_SMELL
+a	java:S106."9Replace this use of System.out or System.err by a logger.(Òı›²RMAJORZ
+CODE_SMELL
+a	java:S1060"9Replace this use of System.out or System.err by a logger.(¡ÏçÙRMAJORZ
+CODE_SMELL
+f	java:S1061"9Replace this use of System.out or System.err by a logger.(ıâ‘›ıÿÿÿÿRMAJORZ
+CODE_SMELL
+`	java:S1062"9Replace this use of System.out or System.err by a logger.(´Ö¿PRMAJORZ
+CODE_SMELL
+f	java:S1064"9Replace this use of System.out or System.err by a logger.(®ôë‘ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S1066"9Replace this use of System.out or System.err by a logger.(‘Ì§²ÿÿÿÿÿRMAJORZ
+CODE_SMELL

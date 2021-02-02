@@ -1,0 +1,10 @@
+
+a
+java:S1197"8Move the array designator from the variable to the type.(ÇÍýæRMINORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(°ú¾þRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(·ØÌöRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ž’Ò–ùÿÿÿÿRMAJORZ
+CODE_SMELL

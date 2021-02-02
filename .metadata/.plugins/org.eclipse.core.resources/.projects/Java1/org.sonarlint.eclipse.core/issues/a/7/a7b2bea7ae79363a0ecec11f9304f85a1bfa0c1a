@@ -1,0 +1,26 @@
+
+c
+java:S1854$":Remove this useless assignment to local variable "totali".(×ÊÔRMAJORZ
+CODE_SMELL
+b
+java:S1854"9Remove this useless assignment to local variable "useri".(’©è×RMAJORZ
+CODE_SMELL
+_
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¯½»²ıÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(¿šé¡RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ê”Æ˜úÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106 "9Replace this use of System.out or System.err by a logger.(Ş­ñÒşÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106""9Replace this use of System.out or System.err by a logger.(†×ï®øÿÿÿÿRMAJORZ
+CODE_SMELL
+S
+java:S1481"*Remove this unused "useri" local variable.(’©è×RMINORZ
+CODE_SMELL
+T
+java:S1481$"+Remove this unused "totali" local variable.(×ÊÔRMINORZ
+CODE_SMELL

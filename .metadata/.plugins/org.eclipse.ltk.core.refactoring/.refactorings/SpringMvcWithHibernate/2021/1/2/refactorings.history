@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;showEmps.jsp&apos; to &apos;views&apos;&#x0D;&#x0A;- Original project: &apos;SpringMvcWithHibernate&apos;&#x0D;&#x0A;- Destination element: &apos;views&apos;&#x0D;&#x0A;- Original element: &apos;showEmps.jsp&apos;" description="Copy file" element1="WebContent/WEB-INF/views/showEmps.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1610101148774" target="/SpringMvcWithHibernate/WebContent/WEB-INF/views" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,39 @@
+
+_
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+f	java:S106
+"9Replace this use of System.out or System.err by a logger.(õ “ÉþÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÌÖ’ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Ò—š¹úÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(µÁü÷ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Œû¾òRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(è›«èRMAJORZ
+CODE_SMELL
+a	java:S106""9Replace this use of System.out or System.err by a logger.(ì¸­ÜRMAJORZ
+CODE_SMELL
+a	java:S106#"9Replace this use of System.out or System.err by a logger.(§ø òRMAJORZ
+CODE_SMELL
+f	java:S106'"9Replace this use of System.out or System.err by a logger.( âä§üÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106("9Replace this use of System.out or System.err by a logger.(ùóõ†øÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106,"9Replace this use of System.out or System.err by a logger.(°‡Ù§úÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106."9Replace this use of System.out or System.err by a logger.(ãëÎÐýÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S1063"9Replace this use of System.out or System.err by a logger.(±ÖêÙýÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S1064"9Replace this use of System.out or System.err by a logger.(±¿­§ýÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S1065"9Replace this use of System.out or System.err by a logger.(íÒéòRMAJORZ
+CODE_SMELL
+f	java:S1066"9Replace this use of System.out or System.err by a logger.(¢¥¶­þÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S1067"9Replace this use of System.out or System.err by a logger.(±èîòRMAJORZ
+CODE_SMELL

@@ -1,0 +1,14 @@
+
+^
+java:S1854"5Remove this useless assignment to local variable "t".(ç“í²RMAJORZ
+CODE_SMELL
+Q
+java:S2440"(Remove this instantiation of "TestDemo".(ç“í²RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿRMAJORZ
+CODE_SMELL
+O
+java:S1481"&Remove this unused "t" local variable.(ç“í²RMINORZ
+CODE_SMELL

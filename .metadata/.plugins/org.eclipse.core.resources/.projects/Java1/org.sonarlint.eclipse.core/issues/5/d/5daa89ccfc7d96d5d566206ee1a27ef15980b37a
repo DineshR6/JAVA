@@ -1,0 +1,20 @@
+
+d	java:S125"<This block of commented-out lines of code should be removed.(ı–“ RMAJORZ
+CODE_SMELL
+`
+java:S1197"8Move the array designator from the variable to the type.(Ã§”RMINORZ
+CODE_SMELL
+f	java:S106 "9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106#"9Replace this use of System.out or System.err by a logger.(ïûêìşÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106&"9Replace this use of System.out or System.err by a logger.(¥ÖãÜùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106("9Replace this use of System.out or System.err by a logger.(¥ĞÏÏÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106+"9Replace this use of System.out or System.err by a logger.(áÕ ÅüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106."9Replace this use of System.out or System.err by a logger.(Ô÷ù‰RMAJORZ
+CODE_SMELL
+a	java:S1060"9Replace this use of System.out or System.err by a logger.(éáéùRMAJORZ
+CODE_SMELL

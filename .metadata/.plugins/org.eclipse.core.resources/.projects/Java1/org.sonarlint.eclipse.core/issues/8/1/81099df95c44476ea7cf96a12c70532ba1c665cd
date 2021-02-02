@@ -1,0 +1,39 @@
+
+q
+java:S1192"FDefine a constant instead of duplicating this literal "Kumar" 4 times.(—†ŒRCRITICALZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«ğÛüÿÿÿÿÿRMINORZ
+CODE_SMELL
+Q
+java:S1604"(Make this anonymous inner class a lambda(ŒÉ†¯RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(€ŒêÕûÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(êñ÷ĞüÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(î¬šİùÿÿÿÿRMAJORZ
+CODE_SMELL
+`
+java:S1611"2Remove the parentheses around the "name" parameter(¨³¢şÿÿÿÿRMINORZ
+CODE_SMELL
+Z
+java:S1602",Remove useless curly braces around statement(¨³¢şÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¨³¢şÿÿÿÿRMAJORZ
+CODE_SMELL
+[
+java:S1611 "2Remove the parentheses around the "name" parameter(ÌÕÑàRMINORZ
+CODE_SMELL
+U
+java:S1602 ",Remove useless curly braces around statement(ÌÕÑàRMINORZ
+CODE_SMELL
+a	java:S106 "9Replace this use of System.out or System.err by a logger.(ÌÕÑàRMAJORZ
+CODE_SMELL
+[
+java:S1611#"2Remove the parentheses around the "name" parameter(ÍÑíÖRMINORZ
+CODE_SMELL
+U
+java:S1602#",Remove useless curly braces around statement(ÍÑíÖRMINORZ
+CODE_SMELL
+a	java:S106#"9Replace this use of System.out or System.err by a logger.(ÍÑíÖRMAJORZ
+CODE_SMELL

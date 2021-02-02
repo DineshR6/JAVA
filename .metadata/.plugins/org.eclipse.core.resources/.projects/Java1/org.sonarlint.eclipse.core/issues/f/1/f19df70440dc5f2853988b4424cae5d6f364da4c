@@ -1,0 +1,16 @@
+
+‚	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿø´²RMINORZ
+CODE_SMELL
+V
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êXRMINORZ
+CODE_SMELL
+‚
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹øðæRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ã©Ã“ùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(òÈñõýÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿRMAJORZ
+CODE_SMELL

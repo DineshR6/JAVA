@@ -1,0 +1,8 @@
+
+_
+java:S3518":Make sure "num2" can't be zero before doing this division.(νΞΊRCRITICALZBUG
+f	java:S106	"9Replace this use of System.out or System.err by a logger.(µΟ…θωÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106
+"9Replace this use of System.out or System.err by a logger.(ιαιωRMAJORZ
+CODE_SMELL

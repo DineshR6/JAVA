@@ -1,0 +1,10 @@
+
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹¹´ßúÿÿÿÿRMINORZ
+CODE_SMELL
+d	java:S125"<This block of commented-out lines of code should be removed.(¶óÁéRMAJORZ
+CODE_SMELL
+c
+java:S1161D":Add the "@Override" annotation above this method signature(“–ýþRMAJORZ
+CODE_SMELL
+h
+java:S2142J"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€RMAJORZBUG

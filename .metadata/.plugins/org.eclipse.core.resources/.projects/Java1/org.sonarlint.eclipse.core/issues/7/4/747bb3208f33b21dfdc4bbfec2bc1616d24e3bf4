@@ -1,0 +1,11 @@
+
+u
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(½‘·îHRBLOCKERZBUG
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï¨„æùÿÿÿÿH‘RMINORZ
+CODE_SMELL
+e	java:S106"9Replace this use of System.out or System.err by a logger.(É¤º–H’RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH“RMAJORZ
+CODE_SMELL
+|
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(µÈŒ¨şÿÿÿÿH”RBLOCKERZBUG

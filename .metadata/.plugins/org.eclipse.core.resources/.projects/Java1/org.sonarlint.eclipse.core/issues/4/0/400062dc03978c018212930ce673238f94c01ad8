@@ -1,0 +1,25 @@
+
+^
+java:S1854"5Remove this useless assignment to local variable "b".(ïŸÅãRMAJORZ
+CODE_SMELL
+_
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿRINFOZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡ÜRMAJORZ
+CODE_SMELL
+a	java:S106 "9Replace this use of System.out or System.err by a logger.(¯ô¢ôRMAJORZ
+CODE_SMELL
+f	java:S106!"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106""9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”RMAJORZ
+CODE_SMELL
+f	java:S106#"9Replace this use of System.out or System.err by a logger.(Ä”ÙûÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106$"9Replace this use of System.out or System.err by a logger.(šôÈûRMAJORZ
+CODE_SMELL
+f	java:S106%"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿRMAJORZ
+CODE_SMELL

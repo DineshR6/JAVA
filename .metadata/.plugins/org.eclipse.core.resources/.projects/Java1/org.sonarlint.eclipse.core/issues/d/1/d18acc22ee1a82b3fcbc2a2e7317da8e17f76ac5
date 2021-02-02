@@ -1,0 +1,31 @@
+
+x
+java:S1192"LDefine a constant instead of duplicating this literal "id is valid" 3 times.(Ÿ¨ë∂RCRITICALZ
+CODE_SMELL
+_
+java:S1135"2Complete the task associated to this TODO comment.(ª†ÊûˇˇˇˇˇRINFOZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ã∞Ø≠RMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(®π˛ŒRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(É∑·$RMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(≤ãˇõRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¨ë∂RMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(é∏¶ﬁRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¨ë∂RMAJORZ
+CODE_SMELL
+a	java:S106 "9Replace this use of System.out or System.err by a logger.(çìÌ¢RMAJORZ
+CODE_SMELL
+f	java:S106!"9Replace this use of System.out or System.err by a logger.(í©ö ˛ˇˇˇˇRMAJORZ
+CODE_SMELL
+a	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ¨ë∂RMAJORZ
+CODE_SMELL
+a	java:S106$"9Replace this use of System.out or System.err by a logger.(çìÌ¢RMAJORZ
+CODE_SMELL
+f	java:S106%"9Replace this use of System.out or System.err by a logger.(≠æ¯°˚ˇˇˇˇRMAJORZ
+CODE_SMELL

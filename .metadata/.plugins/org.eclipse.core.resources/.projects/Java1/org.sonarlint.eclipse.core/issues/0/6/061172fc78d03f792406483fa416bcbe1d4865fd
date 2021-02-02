@@ -1,0 +1,16 @@
+
+_
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿRINFOZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(‹°¯­RMAJORZ
+CODE_SMELL
+f	java:S106$"9Replace this use of System.out or System.err by a logger.(—›½çýÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106*"9Replace this use of System.out or System.err by a logger.(¨¹þÎRMAJORZ
+CODE_SMELL
+f	java:S1062"9Replace this use of System.out or System.err by a logger.(êì«ôÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S1064"9Replace this use of System.out or System.err by a logger.(ÆîéçûÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S1066"9Replace this use of System.out or System.err by a logger.(§ÊÜÀRMAJORZ
+CODE_SMELL

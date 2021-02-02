@@ -1,0 +1,28 @@
+
+r
+java:S1192"FDefine a constant instead of duplicating this literal "user1" 3 times.(İÍßÚRCRITICALZ
+CODE_SMELL
+s
+java:S1192"GDefine a constant instead of duplicating this literal " user3" 3 times.(°°ÏÄRCRITICALZ
+CODE_SMELL
+x
+java:S1192"GDefine a constant instead of duplicating this literal " user2" 3 times.(”ø—ÎÿÿÿÿÿRCRITICALZ
+CODE_SMELL
+r
+java:S1192	"GDefine a constant instead of duplicating this literal " user5" 3 times.(áÀRCRITICALZ
+CODE_SMELL
+x
+java:S1192"GDefine a constant instead of duplicating this literal " user4" 3 times.(Öæ–éüÿÿÿÿRCRITICALZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œ¨üÿÿÿÿRMINORZ
+CODE_SMELL
+ˆ
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒÂŒòRMAJORZ
+CODE_SMELL
+a	java:S106
+"9Replace this use of System.out or System.err by a logger.(”“î€RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(‰„üÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(áêÚšRMAJORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+g	java:S125#"<This block of commented-out lines of code should be removed.(×±«]H¿‘RMAJORZ
+CODE_SMELL
+m
+java:S1126O"AReplace this if-then-else statement by a single return statement.(—êŸHÁ‘RMINORZ
+CODE_SMELL
+h	java:S1250"<This block of commented-out lines of code should be removed.(ñ¶ÎHÀ‘RMAJORZ
+CODE_SMELL
+“
+java:S1488&"_Immediately return this expression instead of assigning it to the temporary variable "article".(ºş—Î8Œ¨½çô.HÇ‘RMINORZ
+CODE_SMELL

@@ -1,0 +1,29 @@
+
+r
+java:S1192"FDefine a constant instead of duplicating this literal "valid" 3 times.(’ÍËêRCRITICALZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(™ÿ®ºRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(¾°éŸRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(×¥ÓRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(‚š‰1RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(È©©–şÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106'"9Replace this use of System.out or System.err by a logger.(çì­RMAJORZ
+CODE_SMELL
+a	java:S106,"9Replace this use of System.out or System.err by a logger.(¡×ı‰RMAJORZ
+CODE_SMELL
+a	java:S1067"9Replace this use of System.out or System.err by a logger.(Ï—çûRMAJORZ
+CODE_SMELL
+T
+java:S1172;"&Remove these unused method parameters.(ñ®€¡ùÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106<"9Replace this use of System.out or System.err by a logger.(¿áÅÊRMAJORZ
+CODE_SMELL
+f	java:S106="9Replace this use of System.out or System.err by a logger.(ÄÊïÏûÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106>"9Replace this use of System.out or System.err by a logger.(”ã­™ùÿÿÿÿRMAJORZ
+CODE_SMELL

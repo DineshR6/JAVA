@@ -1,0 +1,14 @@
+
+	java:S116"RRename this field "Country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛºáÝýÿÿÿÿRMINORZ
+CODE_SMELL
+a	java:S106
+"9Replace this use of System.out or System.err by a logger.(ºþ£ÞRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(˜âëªRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ºþ£ÞRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(¶üÕARMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ˆàÏ‹RMAJORZ
+CODE_SMELL

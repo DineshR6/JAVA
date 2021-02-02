@@ -1,0 +1,42 @@
+
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÏ¦çùÿÿÿÿRMINORZ
+CODE_SMELL
+]
+java:S3655A"6Call "answer1.isPresent()" before accessing the value.(º‡¿ÌüÿÿÿÿRMAJORZBUG
+Z
+java:S36552"8Call "maxNumber.isPresent()" before accessing the value.(ÄŠ‡øRMAJORZBUG
+Z
+java:S3655,"8Call "minNumber.isPresent()" before accessing the value.(Î³ˆÐRMAJORZBUG
+\
+java:S3655<"5Call "answer.isPresent()" before accessing the value.(‚çœÂùÿÿÿÿRMAJORZBUG
+c	java:S125"<This block of commented-out lines of code should be removed.(²¥Ø6RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(£„‘ýÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ÞÒ©ØRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûýRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ÅçŒÏRMAJORZ
+CODE_SMELL
+f	java:S106""9Replace this use of System.out or System.err by a logger.(æÒð‡ùÿÿÿÿRMAJORZ
+CODE_SMELL
+U
+java:S1612&",Replace this lambda with a method reference.(†Ö†óRMINORZ
+CODE_SMELL
+a	java:S106&"9Replace this use of System.out or System.err by a logger.(†Ö†óRMAJORZ
+CODE_SMELL
+a	java:S106,"9Replace this use of System.out or System.err by a logger.(Î³ˆÐRMAJORZ
+CODE_SMELL
+a	java:S1062"9Replace this use of System.out or System.err by a logger.(ÄŠ‡øRMAJORZ
+CODE_SMELL
+f	java:S1067"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106<"9Replace this use of System.out or System.err by a logger.(‚çœÂùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106A"9Replace this use of System.out or System.err by a logger.(º‡¿ÌüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106H"9Replace this use of System.out or System.err by a logger.(ÎØÁÖRMAJORZ
+CODE_SMELL
+a	java:S106O"9Replace this use of System.out or System.err by a logger.(ÌÕÔñRMAJORZ
+CODE_SMELL
